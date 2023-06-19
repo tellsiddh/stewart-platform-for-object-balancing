@@ -10,7 +10,7 @@ Debugging - wont be necessary but just incase
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=P9DKjQvbcVY
 " target="_blank"><img src="http://img.youtube.com/vi/P9DKjQvbcVY/0.jpg" 
-alt="UAV Line Follower" width="240" height="180" border="10" /></a>
+alt="Stewart Platform for Object Balancing" width="240" height="180" border="10" /></a>
 
 Incase of any issues, kindly contact:
 Siddharth Jain tellsiddh@asu.edu
