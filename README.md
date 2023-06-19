@@ -8,6 +8,7 @@ To run the model kindly follow the steps.
 Debugging - wont be necessary but just incase
 - if the simulation does not run, install the plugin "Simscape Multibody Contact Forces Library" and add to path
 
+https://youtu.be/P9DKjQvbcVY
 
 Incase of any issues, kindly contact:
 Siddharth Jain tellsiddh@asu.edu
